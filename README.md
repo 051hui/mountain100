@@ -134,7 +134,8 @@
 - Scikit-learn (Clustering)
 - NLP / LLM 기반 텍스트 분석
 - Matplotlib / Seaborn
-- 지도 API (Kakao, Naver)
+- 지도 API (Kakao)
+- Streamlit
 
 ---
 
