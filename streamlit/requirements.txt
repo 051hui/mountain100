@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+matplotlib
+seaborn
+plotly
+wordcloud
+gpxpy
+google-genai
+google-generativeai
+watchdog
+python-dotenv
